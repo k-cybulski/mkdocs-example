@@ -1,10 +1,10 @@
-site_name: Test docs
-site_description: 'A docs test'
-site_author: 'Michael Hausenblas'
+site_name: MkDocs example
+site_description: 'A MkDocs example'
+site_author: 'Chris (but actually Michael Hausenblas)'
 docs_dir: docs/
-repo_name: 'mhausenblas/mkdocs-template'
-repo_url: 'https://github.com/mhausenblas/mkdocs-template'
+repo_name: 'k-cybulski/mkdocs-example'
+repo_url: 'https://github.com/k-cybulski/mkdocs-example'
 nav:
     - Home: index.md
 theme:
-  name: 'material'
+  name: 'readthedocs'
